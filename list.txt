@@ -1,0 +1,11 @@
+Fiji
+GK110
+GM200
+GP102
+GP104
+GP106
+GT200
+Hawaii
+Polaris10
+Polaris11
+Vega10
