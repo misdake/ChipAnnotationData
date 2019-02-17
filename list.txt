@@ -8,4 +8,5 @@ GT200
 Hawaii
 Polaris10
 Polaris11
+Polaris22
 Vega10
