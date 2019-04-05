@@ -1,6 +1,7 @@
 https://misdake.github.io/ChipAnnotationData/Fiji
 https://misdake.github.io/ChipAnnotationData/G80
 https://misdake.github.io/ChipAnnotationData/G92
+https://misdake.github.io/ChipAnnotationData/G94
 https://misdake.github.io/ChipAnnotationData/GK110
 https://misdake.github.io/ChipAnnotationData/GM200
 https://misdake.github.io/ChipAnnotationData/GP102
