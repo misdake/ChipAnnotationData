@@ -21,4 +21,5 @@ https://misdake.github.io/ChipAnnotationData/Polaris22
 https://misdake.github.io/ChipAnnotationData/TU102
 https://misdake.github.io/ChipAnnotationData/TU106
 https://misdake.github.io/ChipAnnotationData/TU116
+https://misdake.github.io/ChipAnnotationData/Tahiti
 https://misdake.github.io/ChipAnnotationData/Vega10
