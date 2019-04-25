@@ -1,3 +1,4 @@
+https://misdake.github.io/ChipAnnotationData/Cayman
 https://misdake.github.io/ChipAnnotationData/Fiji
 https://misdake.github.io/ChipAnnotationData/G80
 https://misdake.github.io/ChipAnnotationData/G92
@@ -15,6 +16,7 @@ https://misdake.github.io/ChipAnnotationData/GT200
 https://misdake.github.io/ChipAnnotationData/Hawaii
 https://misdake.github.io/ChipAnnotationData/PS4
 https://misdake.github.io/ChipAnnotationData/PS4Pro
+https://misdake.github.io/ChipAnnotationData/Pitcairn
 https://misdake.github.io/ChipAnnotationData/Polaris10
 https://misdake.github.io/ChipAnnotationData/Polaris11
 https://misdake.github.io/ChipAnnotationData/Polaris22
