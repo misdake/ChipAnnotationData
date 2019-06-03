@@ -1,1 +1,35 @@
-{"name":"G92","githubRepo":"misdake/ChipAnnotationData","githubIssueId":18,"source":"https://www.flickr.com/photos/98762402@N06/33451726118/","width":3852,"height":4004,"tileSize":512,"maxLevel":3,"levels":[{"level":0,"xMax":8,"yMax":8},{"level":1,"xMax":4,"yMax":4},{"level":2,"xMax":2,"yMax":2},{"level":3,"xMax":1,"yMax":1}],"widthMillimeter":0.0,"heightMillimeter":0.0}
+{
+  "name": "G92",
+  "githubRepo": "misdake/ChipAnnotationData",
+  "githubIssueId": 18,
+  "source": "https://www.flickr.com/photos/98762402@N06/33451726118/",
+  "createTime": "Apr 5, 2019 11:27:39 PM",
+  "width": 3852,
+  "height": 4004,
+  "tileSize": 512,
+  "maxLevel": 3,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 8,
+      "yMax": 8
+    },
+    {
+      "level": 1,
+      "xMax": 4,
+      "yMax": 4
+    },
+    {
+      "level": 2,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 3,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 0.0,
+  "heightMillimeter": 0.0
+}

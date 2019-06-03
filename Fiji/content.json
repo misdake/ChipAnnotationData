@@ -1,1 +1,45 @@
-{"width":11923,"height":10119,"tileSize":512,"maxLevel":5,"levels":[{"level":0,"xMax":24,"yMax":20},{"level":1,"xMax":12,"yMax":10},{"level":2,"xMax":6,"yMax":5},{"level":3,"xMax":3,"yMax":3},{"level":4,"xMax":2,"yMax":2},{"level":5,"xMax":1,"yMax":1}],"widthMillimeter":26.51,"heightMillimeter":22.5,"name":"Fiji","githubRepo":"misdake/ChipAnnotationData","githubIssueId":1,"source":"https://www.flickr.com/photos/130561288@N04/43550215354"}
+{
+  "name": "Fiji",
+  "githubRepo": "misdake/ChipAnnotationData",
+  "githubIssueId": 1,
+  "source": "https://www.flickr.com/photos/130561288@N04/43550215354",
+  "createTime": "Feb 5, 2018 1:18:00 AM",
+  "width": 11923,
+  "height": 10119,
+  "tileSize": 512,
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 24,
+      "yMax": 20
+    },
+    {
+      "level": 1,
+      "xMax": 12,
+      "yMax": 10
+    },
+    {
+      "level": 2,
+      "xMax": 6,
+      "yMax": 5
+    },
+    {
+      "level": 3,
+      "xMax": 3,
+      "yMax": 3
+    },
+    {
+      "level": 4,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 5,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 26.51,
+  "heightMillimeter": 22.5
+}

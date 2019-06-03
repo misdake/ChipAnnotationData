@@ -1,1 +1,40 @@
-{"name":"GF114","githubRepo":"misdake/ChipAnnotationData","githubIssueId":22,"source":"https://www.flickr.com/photos/98762402@N06/47276737461/","width":5372,"height":3158,"tileSize":512,"maxLevel":4,"levels":[{"level":0,"xMax":11,"yMax":7},{"level":1,"xMax":6,"yMax":4},{"level":2,"xMax":3,"yMax":2},{"level":3,"xMax":2,"yMax":1},{"level":4,"xMax":1,"yMax":1}],"widthMillimeter":0.0,"heightMillimeter":0.0}
+{
+  "name": "GF114",
+  "githubRepo": "misdake/ChipAnnotationData",
+  "githubIssueId": 22,
+  "source": "https://www.flickr.com/photos/98762402@N06/47276737461/",
+  "createTime": "Apr 5, 2019 11:42:37 PM",
+  "width": 5372,
+  "height": 3158,
+  "tileSize": 512,
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 11,
+      "yMax": 7
+    },
+    {
+      "level": 1,
+      "xMax": 6,
+      "yMax": 4
+    },
+    {
+      "level": 2,
+      "xMax": 3,
+      "yMax": 2
+    },
+    {
+      "level": 3,
+      "xMax": 2,
+      "yMax": 1
+    },
+    {
+      "level": 4,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 0.0,
+  "heightMillimeter": 0.0
+}

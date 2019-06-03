@@ -1,1 +1,35 @@
-{"name":"Tahiti","githubRepo":"misdake/ChipAnnotationData","githubIssueId":26,"source":"https://www.flickr.com/photos/130561288@N04/30132516316/","width":3873,"height":3459,"tileSize":512,"maxLevel":3,"levels":[{"level":0,"xMax":8,"yMax":7},{"level":1,"xMax":4,"yMax":4},{"level":2,"xMax":2,"yMax":2},{"level":3,"xMax":1,"yMax":1}],"widthMillimeter":0.0,"heightMillimeter":0.0}
+{
+  "name": "Tahiti",
+  "githubRepo": "misdake/ChipAnnotationData",
+  "githubIssueId": 26,
+  "source": "https://www.flickr.com/photos/130561288@N04/30132516316/",
+  "createTime": "Apr 6, 2019 12:06:41 AM",
+  "width": 3873,
+  "height": 3459,
+  "tileSize": 512,
+  "maxLevel": 3,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 8,
+      "yMax": 7
+    },
+    {
+      "level": 1,
+      "xMax": 4,
+      "yMax": 4
+    },
+    {
+      "level": 2,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 3,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 0.0,
+  "heightMillimeter": 0.0
+}

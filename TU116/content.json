@@ -1,1 +1,40 @@
-{"name":"TU116","githubRepo":"misdake/ChipAnnotationData","githubIssueId":13,"source":"https://www.flickr.com/photos/130561288@N04/47220396142","width":7025,"height":4024,"tileSize":512,"maxLevel":4,"levels":[{"level":0,"xMax":14,"yMax":8},{"level":1,"xMax":7,"yMax":4},{"level":2,"xMax":4,"yMax":2},{"level":3,"xMax":2,"yMax":1},{"level":4,"xMax":1,"yMax":1}],"widthMillimeter":22.5,"heightMillimeter":12.9}
+{
+  "name": "TU116",
+  "githubRepo": "misdake/ChipAnnotationData",
+  "githubIssueId": 13,
+  "source": "https://www.flickr.com/photos/130561288@N04/47220396142",
+  "createTime": "Mar 5, 2019 9:26:54 PM",
+  "width": 7025,
+  "height": 4024,
+  "tileSize": 512,
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 14,
+      "yMax": 8
+    },
+    {
+      "level": 1,
+      "xMax": 7,
+      "yMax": 4
+    },
+    {
+      "level": 2,
+      "xMax": 4,
+      "yMax": 2
+    },
+    {
+      "level": 3,
+      "xMax": 2,
+      "yMax": 1
+    },
+    {
+      "level": 4,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 22.5,
+  "heightMillimeter": 12.9
+}

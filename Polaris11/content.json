@@ -1,1 +1,40 @@
-{"width":5816,"height":6644,"tileSize":512,"maxLevel":4,"levels":[{"level":0,"xMax":12,"yMax":13},{"level":1,"xMax":6,"yMax":7},{"level":2,"xMax":3,"yMax":4},{"level":3,"xMax":2,"yMax":2},{"level":4,"xMax":1,"yMax":1}],"widthMillimeter":10.65,"heightMillimeter":12.15,"name":"Polaris11","githubRepo":"misdake/ChipAnnotationData","githubIssueId":10,"source":"https://www.flickr.com/photos/130561288@N04/42217737082/"}
+{
+  "name": "Polaris11",
+  "githubRepo": "misdake/ChipAnnotationData",
+  "githubIssueId": 10,
+  "source": "https://www.flickr.com/photos/130561288@N04/42217737082/",
+  "createTime": "Jan 6, 2019 3:38:32 PM",
+  "width": 5816,
+  "height": 6644,
+  "tileSize": 512,
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 12,
+      "yMax": 13
+    },
+    {
+      "level": 1,
+      "xMax": 6,
+      "yMax": 7
+    },
+    {
+      "level": 2,
+      "xMax": 3,
+      "yMax": 4
+    },
+    {
+      "level": 3,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 4,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 10.65,
+  "heightMillimeter": 12.15
+}

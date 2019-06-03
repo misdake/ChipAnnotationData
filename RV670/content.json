@@ -1,1 +1,35 @@
-{"name":"RV670","githubRepo":"misdake/ChipAnnotationData","githubIssueId":32,"source":"https://www.flickr.com/photos/98762402@N06/46821178124","width":4034,"height":3746,"tileSize":512,"maxLevel":3,"levels":[{"level":0,"xMax":8,"yMax":8},{"level":1,"xMax":4,"yMax":4},{"level":2,"xMax":2,"yMax":2},{"level":3,"xMax":1,"yMax":1}],"widthMillimeter":0.0,"heightMillimeter":0.0}
+{
+  "name": "RV670",
+  "githubRepo": "misdake/ChipAnnotationData",
+  "githubIssueId": 32,
+  "source": "https://www.flickr.com/photos/98762402@N06/46821178124",
+  "createTime": "Apr 26, 2019 12:44:01 AM",
+  "width": 4034,
+  "height": 3746,
+  "tileSize": 512,
+  "maxLevel": 3,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 8,
+      "yMax": 8
+    },
+    {
+      "level": 1,
+      "xMax": 4,
+      "yMax": 4
+    },
+    {
+      "level": 2,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 3,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 0.0,
+  "heightMillimeter": 0.0
+}
