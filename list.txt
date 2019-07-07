@@ -23,6 +23,7 @@ https://misdake.github.io/ChipAnnotationData/Pitcairn
 https://misdake.github.io/ChipAnnotationData/Polaris10
 https://misdake.github.io/ChipAnnotationData/Polaris11
 https://misdake.github.io/ChipAnnotationData/Polaris22
+https://misdake.github.io/ChipAnnotationData/R420
 https://misdake.github.io/ChipAnnotationData/R430
 https://misdake.github.io/ChipAnnotationData/R520
 https://misdake.github.io/ChipAnnotationData/R580
@@ -31,6 +32,7 @@ https://misdake.github.io/ChipAnnotationData/RV350
 https://misdake.github.io/ChipAnnotationData/RV570
 https://misdake.github.io/ChipAnnotationData/RV670
 https://misdake.github.io/ChipAnnotationData/TU102
+https://misdake.github.io/ChipAnnotationData/TU104
 https://misdake.github.io/ChipAnnotationData/TU106
 https://misdake.github.io/ChipAnnotationData/TU116
 https://misdake.github.io/ChipAnnotationData/Tahiti
