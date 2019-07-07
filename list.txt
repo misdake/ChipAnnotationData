@@ -2,7 +2,10 @@ https://misdake.github.io/ChipAnnotationData/Cayman
 https://misdake.github.io/ChipAnnotationData/Fiji
 https://misdake.github.io/ChipAnnotationData/G70
 https://misdake.github.io/ChipAnnotationData/G71
+https://misdake.github.io/ChipAnnotationData/G72
 https://misdake.github.io/ChipAnnotationData/G80
+https://misdake.github.io/ChipAnnotationData/G84
+https://misdake.github.io/ChipAnnotationData/G86
 https://misdake.github.io/ChipAnnotationData/G92
 https://misdake.github.io/ChipAnnotationData/G94
 https://misdake.github.io/ChipAnnotationData/GF106
@@ -11,10 +14,12 @@ https://misdake.github.io/ChipAnnotationData/GK104
 https://misdake.github.io/ChipAnnotationData/GK106
 https://misdake.github.io/ChipAnnotationData/GK110
 https://misdake.github.io/ChipAnnotationData/GM200
+https://misdake.github.io/ChipAnnotationData/GM204
 https://misdake.github.io/ChipAnnotationData/GP102
 https://misdake.github.io/ChipAnnotationData/GP104
 https://misdake.github.io/ChipAnnotationData/GP106
 https://misdake.github.io/ChipAnnotationData/GT200
+https://misdake.github.io/ChipAnnotationData/GT218
 https://misdake.github.io/ChipAnnotationData/Hawaii
 https://misdake.github.io/ChipAnnotationData/NV40
 https://misdake.github.io/ChipAnnotationData/PS4
