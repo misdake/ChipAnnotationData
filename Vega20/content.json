@@ -1,0 +1,40 @@
+{
+  "name": "Vega20",
+  "githubRepo": "misdake/ChipAnnotationData",
+  "githubIssueId": 46,
+  "source": "https://www.flickr.com/photos/130561288@N04/48243282516",
+  "createTime": "Wed, 10 Jul 2019 04:03:58 GMT",
+  "width": 7162,
+  "height": 4532,
+  "tileSize": 512,
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 14,
+      "yMax": 9
+    },
+    {
+      "level": 1,
+      "xMax": 7,
+      "yMax": 5
+    },
+    {
+      "level": 2,
+      "xMax": 4,
+      "yMax": 3
+    },
+    {
+      "level": 3,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 4,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 22.87,
+  "heightMillimeter": 14.47
+}
