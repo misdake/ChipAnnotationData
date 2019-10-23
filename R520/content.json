@@ -4,14 +4,14 @@
   "githubIssueId": 29,
   "source": "https://www.flickr.com/photos/98762402@N06/47494881822",
   "createTime": "Apr 26, 2019 12:27:55 AM",
-  "width": 4636,
-  "height": 3844,
+  "width": 4388,
+  "height": 3980,
   "tileSize": 512,
   "maxLevel": 4,
   "levels": [
     {
       "level": 0,
-      "xMax": 10,
+      "xMax": 9,
       "yMax": 8
     },
     {
