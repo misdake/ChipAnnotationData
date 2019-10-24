@@ -43,5 +43,33 @@
   {"vendor":"nVIDIA", "type":"GPU", "family":"Turing", "name":"TU116", "url":"https://misdake.github.io/ChipAnnotationData/TU116"},
   {"vendor":"ATI/AMD", "type":"GPU", "family":"GCN1", "name":"Tahiti", "url":"https://misdake.github.io/ChipAnnotationData/Tahiti"},
   {"vendor":"ATI/AMD", "type":"GPU", "family":"GCN5", "name":"Vega10", "url":"https://misdake.github.io/ChipAnnotationData/Vega10"},
-  {"vendor":"ATI/AMD", "type":"GPU", "family":"GCN5", "name":"Vega20", "url":"https://misdake.github.io/ChipAnnotationData/Vega20"}
+  {"vendor":"ATI/AMD", "type":"GPU", "family":"GCN5", "name":"Vega20", "url":"https://misdake.github.io/ChipAnnotationData/Vega20"},
+  {
+    "vendor": "AMD",
+    "type": "CPU",
+    "family": "Zen2",
+    "name": "Zen2_Core",
+    "url": "https://misdake.github.io/ChipAnnotationData2/Zen2_Core"
+  },
+  {
+    "vendor": "AMD",
+    "type": "CPU",
+    "family": "Zen2",
+    "name": "Matisse_CCD",
+    "url": "https://misdake.github.io/ChipAnnotationData2/Matisse_CCD"
+  },
+  {
+    "vendor": "AMD",
+    "type": "CPU",
+    "family": "Zen2",
+    "name": "Matisse_IOD",
+    "url": "https://misdake.github.io/ChipAnnotationData2/Matisse_IOD"
+  },
+  {
+    "vendor": "AMD",
+    "type": "CPU",
+    "family": "Zen2",
+    "name": "Rome_IOD",
+    "url": "https://misdake.github.io/ChipAnnotationData2/Rome_IOD"
+  }
 ]
