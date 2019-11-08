@@ -99,5 +99,26 @@
     "family": "Skylake",
     "name": "Skylake_LCC",
     "url": "https://misdake.github.io/ChipAnnotationData2/Skylake_LCC"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Fermi",
+    "name": "GF100",
+    "url": "https://misdake.github.io/ChipAnnotationData2/GF100"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Fermi",
+    "name": "GF108",
+    "url": "https://misdake.github.io/ChipAnnotationData2/GF108"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Maxwell",
+    "name": "GM107",
+    "url": "https://misdake.github.io/ChipAnnotationData2/GM107"
   }
 ]
