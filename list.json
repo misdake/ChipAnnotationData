@@ -45,6 +45,13 @@
   {"vendor":"ATI/AMD", "type":"GPU", "family":"GCN5", "name":"Vega10", "url":"https://misdake.github.io/ChipAnnotationData/Vega10"},
   {"vendor":"ATI/AMD", "type":"GPU", "family":"GCN5", "name":"Vega20", "url":"https://misdake.github.io/ChipAnnotationData/Vega20"},
   {
+    "vendor": "Microsoft",
+    "type": "",
+    "family": "",
+    "name": "Xbox_One",
+    "url": "https://misdake.github.io/ChipAnnotationData2/Xbox_One"
+  },
+  {
     "vendor": "AMD",
     "type": "CPU",
     "family": "Zen",
