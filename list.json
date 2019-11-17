@@ -127,5 +127,40 @@
     "family": "Maxwell",
     "name": "GM107",
     "url": "https://misdake.github.io/ChipAnnotationData2/GM107"
+  },
+  {
+    "vendor": "AMD",
+    "type": "CPU",
+    "family": "K6",
+    "name": "K6",
+    "url": "https://misdake.github.io/ChipAnnotationData3/K6"
+  },
+  {
+    "vendor": "ATI/AMD",
+    "type": "GPU",
+    "family": "TeraScale",
+    "name": "R600",
+    "url": "https://misdake.github.io/ChipAnnotationData3/R600"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Curie",
+    "name": "G73",
+    "url": "https://misdake.github.io/ChipAnnotationData3/G73"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Curie",
+    "name": "NV42",
+    "url": "https://misdake.github.io/ChipAnnotationData3/NV42"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Curie",
+    "name": "NV43",
+    "url": "https://misdake.github.io/ChipAnnotationData3/NV43"
   }
 ]
