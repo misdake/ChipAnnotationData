@@ -157,6 +157,13 @@
     "url": "https://misdake.github.io/ChipAnnotationData3/R600"
   },
   {
+    "vendor": "ATI/AMD",
+    "type": "GPU",
+    "family": "TeraScale",
+    "name": "RV770",
+    "url": "https://misdake.github.io/ChipAnnotationData3/RV770"
+  },
+  {
     "vendor": "nVIDIA",
     "type": "GPU",
     "family": "Curie",
