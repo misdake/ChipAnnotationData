@@ -164,6 +164,13 @@
     "url": "https://misdake.github.io/ChipAnnotationData3/RV770"
   },
   {
+    "vendor": "ATI/AMD",
+    "type": "GPU",
+    "family": "TeraScale2",
+    "name": "Barts",
+    "url": "https://misdake.github.io/ChipAnnotationData3/Barts"
+  },
+  {
     "vendor": "nVIDIA",
     "type": "GPU",
     "family": "Curie",
