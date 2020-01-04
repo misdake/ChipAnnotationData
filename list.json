@@ -130,7 +130,7 @@
   },
   {
     "vendor": "AMD",
-    "type": "APU",
+    "type": "CPU",
     "family": "SR+GCN2",
     "name": "Kaveri",
     "url": "https://misdake.github.io/ChipAnnotationData3/AMD APU Kaveri"
