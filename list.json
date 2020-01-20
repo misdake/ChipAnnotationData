@@ -131,16 +131,16 @@
   {
     "vendor": "AMD",
     "type": "CPU",
-    "family": "SR+GCN2",
-    "name": "Kaveri",
-    "url": "https://misdake.github.io/ChipAnnotationData3/Kaveri"
+    "family": "K6",
+    "name": "K6",
+    "url": "https://misdake.github.io/ChipAnnotationData3/K6"
   },
   {
     "vendor": "AMD",
     "type": "CPU",
-    "family": "K6",
-    "name": "K6",
-    "url": "https://misdake.github.io/ChipAnnotationData3/K6"
+    "family": "SR+GCN2",
+    "name": "Kaveri",
+    "url": "https://misdake.github.io/ChipAnnotationData3/Kaveri"
   },
   {
     "vendor": "Intel",
@@ -155,6 +155,13 @@
     "family": "P6",
     "name": "Coppermine",
     "url": "https://misdake.github.io/ChipAnnotationData3/Coppermine"
+  },
+  {
+    "vendor": "ATI/AMD",
+    "type": "GPU",
+    "family": "RDNA",
+    "name": "Navi10",
+    "url": "https://misdake.github.io/ChipAnnotationData3/Navi10"
   },
   {
     "vendor": "ATI/AMD",
