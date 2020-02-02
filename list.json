@@ -166,6 +166,13 @@
   {
     "vendor": "ATI/AMD",
     "type": "GPU",
+    "family": "RDNA",
+    "name": "Navi14",
+    "url": "https://misdake.github.io/ChipAnnotationData3/Navi14"
+  },
+  {
+    "vendor": "ATI/AMD",
+    "type": "GPU",
     "family": "TeraScale",
     "name": "R600",
     "url": "https://misdake.github.io/ChipAnnotationData3/R600"
