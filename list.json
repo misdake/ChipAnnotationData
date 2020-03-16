@@ -1,55 +1,52 @@
 [
-  {"vendor":"ATI/AMD", "type":"GPU", "family":"TeraScale3", "name":"Cayman", "url":"https://misdake.github.io/ChipAnnotationData/Cayman"},
-  {"vendor":"ATI/AMD", "type":"GPU", "family":"GCN3", "name":"Fiji", "url":"https://misdake.github.io/ChipAnnotationData/Fiji"},
-  {"vendor":"nVIDIA", "type":"GPU", "family":"Curie", "name":"G70", "url":"https://misdake.github.io/ChipAnnotationData/G70"},
-  {"vendor":"nVIDIA", "type":"GPU", "family":"Curie", "name":"G71", "url":"https://misdake.github.io/ChipAnnotationData/G71"},
-  {"vendor":"nVIDIA", "type":"GPU", "family":"Curie", "name":"G72", "url":"https://misdake.github.io/ChipAnnotationData/G72"},
-  {"vendor":"nVIDIA", "type":"GPU", "family":"Tesla", "name":"G80", "url":"https://misdake.github.io/ChipAnnotationData/G80"},
-  {"vendor":"nVIDIA", "type":"GPU", "family":"Tesla", "name":"G84", "url":"https://misdake.github.io/ChipAnnotationData/G84"},
-  {"vendor":"nVIDIA", "type":"GPU", "family":"Tesla", "name":"G86", "url":"https://misdake.github.io/ChipAnnotationData/G86"},
-  {"vendor":"nVIDIA", "type":"GPU", "family":"Tesla", "name":"G92", "url":"https://misdake.github.io/ChipAnnotationData/G92"},
-  {"vendor":"nVIDIA", "type":"GPU", "family":"Tesla", "name":"G94", "url":"https://misdake.github.io/ChipAnnotationData/G94"},
-  {"vendor":"nVIDIA", "type":"GPU", "family":"Fermi", "name":"GF106", "url":"https://misdake.github.io/ChipAnnotationData/GF106"},
-  {"vendor":"nVIDIA", "type":"GPU", "family":"Fermi", "name":"GF114", "url":"https://misdake.github.io/ChipAnnotationData/GF114"},
-  {"vendor":"nVIDIA", "type":"GPU", "family":"Kepler", "name":"GK104", "url":"https://misdake.github.io/ChipAnnotationData/GK104"},
-  {"vendor":"nVIDIA", "type":"GPU", "family":"Kepler", "name":"GK106", "url":"https://misdake.github.io/ChipAnnotationData/GK106"},
-  {"vendor":"nVIDIA", "type":"GPU", "family":"Kepler", "name":"GK110", "url":"https://misdake.github.io/ChipAnnotationData/GK110"},
-  {"vendor":"nVIDIA", "type":"GPU", "family":"Maxwell", "name":"GM200", "url":"https://misdake.github.io/ChipAnnotationData/GM200"},
-  {"vendor":"nVIDIA", "type":"GPU", "family":"Maxwell", "name":"GM204", "url":"https://misdake.github.io/ChipAnnotationData/GM204"},
-  {"vendor":"nVIDIA", "type":"GPU", "family":"Pascal", "name":"GP102", "url":"https://misdake.github.io/ChipAnnotationData/GP102"},
-  {"vendor":"nVIDIA", "type":"GPU", "family":"Pascal", "name":"GP104", "url":"https://misdake.github.io/ChipAnnotationData/GP104"},
-  {"vendor":"nVIDIA", "type":"GPU", "family":"Pascal", "name":"GP106", "url":"https://misdake.github.io/ChipAnnotationData/GP106"},
-  {"vendor":"nVIDIA", "type":"GPU", "family":"Tesla", "name":"GT200", "url":"https://misdake.github.io/ChipAnnotationData/GT200"},
-  {"vendor":"nVIDIA", "type":"GPU", "family":"Tesla", "name":"GT218", "url":"https://misdake.github.io/ChipAnnotationData/GT218"},
-  {"vendor":"ATI/AMD", "type":"GPU", "family":"GCN2", "name":"Hawaii", "url":"https://misdake.github.io/ChipAnnotationData/Hawaii"},
-  {"vendor":"nVIDIA", "type":"GPU", "family":"Curie", "name":"NV40", "url":"https://misdake.github.io/ChipAnnotationData/NV40"},
-  {"vendor":"Sony", "type":"", "family":"", "name":"PS4", "url":"https://misdake.github.io/ChipAnnotationData/PS4"},
-  {"vendor":"Sony", "type":"", "family":"", "name":"PS4Pro", "url":"https://misdake.github.io/ChipAnnotationData/PS4Pro"},
-  {"vendor":"ATI/AMD", "type":"GPU", "family":"GCN1", "name":"Pitcairn", "url":"https://misdake.github.io/ChipAnnotationData/Pitcairn"},
-  {"vendor":"ATI/AMD", "type":"GPU", "family":"GCN4", "name":"Polaris10", "url":"https://misdake.github.io/ChipAnnotationData/Polaris10"},
-  {"vendor":"ATI/AMD", "type":"GPU", "family":"GCN4", "name":"Polaris11", "url":"https://misdake.github.io/ChipAnnotationData/Polaris11"},
-  {"vendor":"ATI/AMD", "type":"GPU", "family":"GCN4", "name":"Polaris22", "url":"https://misdake.github.io/ChipAnnotationData/Polaris22"},
-  {"vendor":"ATI/AMD", "type":"GPU", "family":"GFX2", "name":"R420", "url":"https://misdake.github.io/ChipAnnotationData/R420"},
-  {"vendor":"ATI/AMD", "type":"GPU", "family":"GFX2", "name":"R430", "url":"https://misdake.github.io/ChipAnnotationData/R430"},
-  {"vendor":"ATI/AMD", "type":"GPU", "family":"GFX2", "name":"R520", "url":"https://misdake.github.io/ChipAnnotationData/R520"},
-  {"vendor":"ATI/AMD", "type":"GPU", "family":"GFX2", "name":"R580", "url":"https://misdake.github.io/ChipAnnotationData/R580"},
-  {"vendor":"Sony", "type":"", "family":"", "name":"RSX", "url":"https://misdake.github.io/ChipAnnotationData/RSX"},
-  {"vendor":"ATI/AMD", "type":"GPU", "family":"GFX2", "name":"RV350", "url":"https://misdake.github.io/ChipAnnotationData/RV350"},
-  {"vendor":"ATI/AMD", "type":"GPU", "family":"GFX2", "name":"RV570", "url":"https://misdake.github.io/ChipAnnotationData/RV570"},
-  {"vendor":"ATI/AMD", "type":"GPU", "family":"TeraScale", "name":"RV670", "url":"https://misdake.github.io/ChipAnnotationData/RV670"},
-  {"vendor":"nVIDIA", "type":"GPU", "family":"Turing", "name":"TU102", "url":"https://misdake.github.io/ChipAnnotationData/TU102"},
-  {"vendor":"nVIDIA", "type":"GPU", "family":"Turing", "name":"TU104", "url":"https://misdake.github.io/ChipAnnotationData/TU104"},
-  {"vendor":"nVIDIA", "type":"GPU", "family":"Turing", "name":"TU106", "url":"https://misdake.github.io/ChipAnnotationData/TU106"},
-  {"vendor":"nVIDIA", "type":"GPU", "family":"Turing", "name":"TU116", "url":"https://misdake.github.io/ChipAnnotationData/TU116"},
-  {"vendor":"ATI/AMD", "type":"GPU", "family":"GCN1", "name":"Tahiti", "url":"https://misdake.github.io/ChipAnnotationData/Tahiti"},
-  {"vendor":"ATI/AMD", "type":"GPU", "family":"GCN5", "name":"Vega10", "url":"https://misdake.github.io/ChipAnnotationData/Vega10"},
-  {"vendor":"ATI/AMD", "type":"GPU", "family":"GCN5", "name":"Vega20", "url":"https://misdake.github.io/ChipAnnotationData/Vega20"},
+  {
+    "vendor": "Microsoft",
+    "type": "",
+    "family": "",
+    "name": "Xbox_Series_X",
+    "url": "https://misdake.github.io/ChipAnnotationData/XboxSeriesX"
+  },
   {
     "vendor": "Microsoft",
     "type": "",
     "family": "",
     "name": "Xbox_One",
     "url": "https://misdake.github.io/ChipAnnotationData2/Xbox_One"
+  },
+  {
+    "vendor": "Sony",
+    "type": "",
+    "family": "",
+    "name": "PS4",
+    "url": "https://misdake.github.io/ChipAnnotationData/PS4"
+  },
+  {
+    "vendor": "Sony",
+    "type": "",
+    "family": "",
+    "name": "PS4Pro",
+    "url": "https://misdake.github.io/ChipAnnotationData/PS4Pro"
+  },
+  {
+    "vendor": "Sony",
+    "type": "",
+    "family": "",
+    "name": "RSX",
+    "url": "https://misdake.github.io/ChipAnnotationData/RSX"
+  },
+  {
+    "vendor": "AMD",
+    "type": "CPU",
+    "family": "K6",
+    "name": "K6",
+    "url": "https://misdake.github.io/ChipAnnotationData3/K6"
+  },
+  {
+    "vendor": "AMD",
+    "type": "CPU",
+    "family": "SR+GCN2",
+    "name": "Kaveri",
+    "url": "https://misdake.github.io/ChipAnnotationData3/Kaveri"
   },
   {
     "vendor": "AMD",
@@ -96,6 +93,20 @@
   {
     "vendor": "Intel",
     "type": "CPU",
+    "family": "P5",
+    "name": "P54C",
+    "url": "https://misdake.github.io/ChipAnnotationData3/P54C"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "P6",
+    "name": "Coppermine",
+    "url": "https://misdake.github.io/ChipAnnotationData3/Coppermine"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
     "family": "Skylake",
     "name": "Kabylake_2+2",
     "url": "https://misdake.github.io/ChipAnnotationData2/Kabylake_2+2"
@@ -108,53 +119,109 @@
     "url": "https://misdake.github.io/ChipAnnotationData2/Skylake_LCC"
   },
   {
-    "vendor": "nVIDIA",
+    "vendor": "ATI/AMD",
     "type": "GPU",
-    "family": "Fermi",
-    "name": "GF100",
-    "url": "https://misdake.github.io/ChipAnnotationData2/GF100"
+    "family": "GCN1",
+    "name": "Pitcairn",
+    "url": "https://misdake.github.io/ChipAnnotationData/Pitcairn"
   },
   {
-    "vendor": "nVIDIA",
+    "vendor": "ATI/AMD",
     "type": "GPU",
-    "family": "Fermi",
-    "name": "GF108",
-    "url": "https://misdake.github.io/ChipAnnotationData2/GF108"
+    "family": "GCN1",
+    "name": "Tahiti",
+    "url": "https://misdake.github.io/ChipAnnotationData/Tahiti"
   },
   {
-    "vendor": "nVIDIA",
+    "vendor": "ATI/AMD",
     "type": "GPU",
-    "family": "Maxwell",
-    "name": "GM107",
-    "url": "https://misdake.github.io/ChipAnnotationData2/GM107"
+    "family": "GCN2",
+    "name": "Hawaii",
+    "url": "https://misdake.github.io/ChipAnnotationData/Hawaii"
   },
   {
-    "vendor": "AMD",
-    "type": "CPU",
-    "family": "K6",
-    "name": "K6",
-    "url": "https://misdake.github.io/ChipAnnotationData3/K6"
+    "vendor": "ATI/AMD",
+    "type": "GPU",
+    "family": "GCN3",
+    "name": "Fiji",
+    "url": "https://misdake.github.io/ChipAnnotationData/Fiji"
   },
   {
-    "vendor": "AMD",
-    "type": "CPU",
-    "family": "SR+GCN2",
-    "name": "Kaveri",
-    "url": "https://misdake.github.io/ChipAnnotationData3/Kaveri"
+    "vendor": "ATI/AMD",
+    "type": "GPU",
+    "family": "GCN4",
+    "name": "Polaris10",
+    "url": "https://misdake.github.io/ChipAnnotationData/Polaris10"
   },
   {
-    "vendor": "Intel",
-    "type": "CPU",
-    "family": "P5",
-    "name": "P54C",
-    "url": "https://misdake.github.io/ChipAnnotationData3/P54C"
+    "vendor": "ATI/AMD",
+    "type": "GPU",
+    "family": "GCN4",
+    "name": "Polaris11",
+    "url": "https://misdake.github.io/ChipAnnotationData/Polaris11"
   },
   {
-    "vendor": "Intel",
-    "type": "CPU",
-    "family": "P6",
-    "name": "Coppermine",
-    "url": "https://misdake.github.io/ChipAnnotationData3/Coppermine"
+    "vendor": "ATI/AMD",
+    "type": "GPU",
+    "family": "GCN4",
+    "name": "Polaris22",
+    "url": "https://misdake.github.io/ChipAnnotationData/Polaris22"
+  },
+  {
+    "vendor": "ATI/AMD",
+    "type": "GPU",
+    "family": "GCN5",
+    "name": "Vega10",
+    "url": "https://misdake.github.io/ChipAnnotationData/Vega10"
+  },
+  {
+    "vendor": "ATI/AMD",
+    "type": "GPU",
+    "family": "GCN5",
+    "name": "Vega20",
+    "url": "https://misdake.github.io/ChipAnnotationData/Vega20"
+  },
+  {
+    "vendor": "ATI/AMD",
+    "type": "GPU",
+    "family": "GFX2",
+    "name": "R420",
+    "url": "https://misdake.github.io/ChipAnnotationData/R420"
+  },
+  {
+    "vendor": "ATI/AMD",
+    "type": "GPU",
+    "family": "GFX2",
+    "name": "R430",
+    "url": "https://misdake.github.io/ChipAnnotationData/R430"
+  },
+  {
+    "vendor": "ATI/AMD",
+    "type": "GPU",
+    "family": "GFX2",
+    "name": "R520",
+    "url": "https://misdake.github.io/ChipAnnotationData/R520"
+  },
+  {
+    "vendor": "ATI/AMD",
+    "type": "GPU",
+    "family": "GFX2",
+    "name": "R580",
+    "url": "https://misdake.github.io/ChipAnnotationData/R580"
+  },
+  {
+    "vendor": "ATI/AMD",
+    "type": "GPU",
+    "family": "GFX2",
+    "name": "RV350",
+    "url": "https://misdake.github.io/ChipAnnotationData/RV350"
+  },
+  {
+    "vendor": "ATI/AMD",
+    "type": "GPU",
+    "family": "GFX2",
+    "name": "RV570",
+    "url": "https://misdake.github.io/ChipAnnotationData/RV570"
   },
   {
     "vendor": "ATI/AMD",
@@ -181,6 +248,13 @@
     "vendor": "ATI/AMD",
     "type": "GPU",
     "family": "TeraScale",
+    "name": "RV670",
+    "url": "https://misdake.github.io/ChipAnnotationData/RV670"
+  },
+  {
+    "vendor": "ATI/AMD",
+    "type": "GPU",
+    "family": "TeraScale",
     "name": "RV770",
     "url": "https://misdake.github.io/ChipAnnotationData3/RV770"
   },
@@ -192,11 +266,46 @@
     "url": "https://misdake.github.io/ChipAnnotationData3/Barts"
   },
   {
+    "vendor": "ATI/AMD",
+    "type": "GPU",
+    "family": "TeraScale3",
+    "name": "Cayman",
+    "url": "https://misdake.github.io/ChipAnnotationData/Cayman"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Curie",
+    "name": "G70",
+    "url": "https://misdake.github.io/ChipAnnotationData/G70"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Curie",
+    "name": "G71",
+    "url": "https://misdake.github.io/ChipAnnotationData/G71"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Curie",
+    "name": "G72",
+    "url": "https://misdake.github.io/ChipAnnotationData/G72"
+  },
+  {
     "vendor": "nVIDIA",
     "type": "GPU",
     "family": "Curie",
     "name": "G73",
     "url": "https://misdake.github.io/ChipAnnotationData3/G73"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Curie",
+    "name": "NV40",
+    "url": "https://misdake.github.io/ChipAnnotationData/NV40"
   },
   {
     "vendor": "nVIDIA",
@@ -211,5 +320,173 @@
     "family": "Curie",
     "name": "NV43",
     "url": "https://misdake.github.io/ChipAnnotationData3/NV43"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Fermi",
+    "name": "GF100",
+    "url": "https://misdake.github.io/ChipAnnotationData2/GF100"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Fermi",
+    "name": "GF106",
+    "url": "https://misdake.github.io/ChipAnnotationData/GF106"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Fermi",
+    "name": "GF108",
+    "url": "https://misdake.github.io/ChipAnnotationData2/GF108"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Fermi",
+    "name": "GF114",
+    "url": "https://misdake.github.io/ChipAnnotationData/GF114"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Kepler",
+    "name": "GK104",
+    "url": "https://misdake.github.io/ChipAnnotationData/GK104"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Kepler",
+    "name": "GK106",
+    "url": "https://misdake.github.io/ChipAnnotationData/GK106"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Kepler",
+    "name": "GK110",
+    "url": "https://misdake.github.io/ChipAnnotationData/GK110"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Maxwell",
+    "name": "GM107",
+    "url": "https://misdake.github.io/ChipAnnotationData2/GM107"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Maxwell",
+    "name": "GM200",
+    "url": "https://misdake.github.io/ChipAnnotationData/GM200"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Maxwell",
+    "name": "GM204",
+    "url": "https://misdake.github.io/ChipAnnotationData/GM204"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Pascal",
+    "name": "GP102",
+    "url": "https://misdake.github.io/ChipAnnotationData/GP102"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Pascal",
+    "name": "GP104",
+    "url": "https://misdake.github.io/ChipAnnotationData/GP104"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Pascal",
+    "name": "GP106",
+    "url": "https://misdake.github.io/ChipAnnotationData/GP106"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Tesla",
+    "name": "G80",
+    "url": "https://misdake.github.io/ChipAnnotationData/G80"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Tesla",
+    "name": "G84",
+    "url": "https://misdake.github.io/ChipAnnotationData/G84"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Tesla",
+    "name": "G86",
+    "url": "https://misdake.github.io/ChipAnnotationData/G86"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Tesla",
+    "name": "G92",
+    "url": "https://misdake.github.io/ChipAnnotationData/G92"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Tesla",
+    "name": "G94",
+    "url": "https://misdake.github.io/ChipAnnotationData/G94"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Tesla",
+    "name": "GT200",
+    "url": "https://misdake.github.io/ChipAnnotationData/GT200"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Tesla",
+    "name": "GT218",
+    "url": "https://misdake.github.io/ChipAnnotationData/GT218"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Turing",
+    "name": "TU102",
+    "url": "https://misdake.github.io/ChipAnnotationData/TU102"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Turing",
+    "name": "TU104",
+    "url": "https://misdake.github.io/ChipAnnotationData/TU104"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Turing",
+    "name": "TU106",
+    "url": "https://misdake.github.io/ChipAnnotationData/TU106"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Turing",
+    "name": "TU116",
+    "url": "https://misdake.github.io/ChipAnnotationData/TU116"
   }
 ]

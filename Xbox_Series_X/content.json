@@ -1,0 +1,28 @@
+{
+  "vendor": "Microsoft",
+  "type": "",
+  "family": "",
+  "name": "Xbox_Series_X",
+  "githubRepo": "misdake/ChipAnnotationData",
+  "githubIssueId": 47,
+  "source": "https://news.xbox.com/en-us/2020/03/16/xbox-series-x-tech/",
+  "createTime": "Mar 16, 2020 1:58:51 PM",
+  "width": 976,
+  "height": 636,
+  "tileSize": 512,
+  "maxLevel": 1,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 1,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 0.0,
+  "heightMillimeter": 0.0
+}
