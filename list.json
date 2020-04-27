@@ -108,6 +108,13 @@
     "vendor": "Intel",
     "type": "CPU",
     "family": "Skylake",
+    "name": "Skylake_Core",
+    "url": "https://misdake.github.io/ChipAnnotationData3/Skylake_Core"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "Skylake",
     "name": "Kabylake_2+2",
     "url": "https://misdake.github.io/ChipAnnotationData2/Kabylake_2+2"
   },
