@@ -37,6 +37,13 @@
   {
     "vendor": "AMD",
     "type": "CPU",
+    "family": "Bobcat+TeraScale2",
+    "name": "Zacate",
+    "url": "https://misdake.github.io/ChipAnnotationData3/Zacate"
+  },
+  {
+    "vendor": "AMD",
+    "type": "CPU",
     "family": "K6",
     "name": "K6",
     "url": "https://misdake.github.io/ChipAnnotationData3/K6"
