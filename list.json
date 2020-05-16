@@ -44,6 +44,13 @@
   {
     "vendor": "AMD",
     "type": "CPU",
+    "family": "K10+TeraScale2",
+    "name": "Llano",
+    "url": "https://misdake.github.io/ChipAnnotationData3/Llano"
+  },
+  {
+    "vendor": "AMD",
+    "type": "CPU",
     "family": "K6",
     "name": "K6",
     "url": "https://misdake.github.io/ChipAnnotationData3/K6"
@@ -124,6 +131,20 @@
     "family": "SandyBridge",
     "name": "SandyBridge_4+2",
     "url": "https://misdake.github.io/ChipAnnotationData3/SandyBridge_4+2"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "SandyBridge",
+    "name": "SandyBridge_Core",
+    "url": "https://misdake.github.io/ChipAnnotationData3/SandyBridge_Core"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "SandyBridge",
+    "name": "SandyBridge_IGP",
+    "url": "https://misdake.github.io/ChipAnnotationData3/SandyBridge_IGP"
   },
   {
     "vendor": "Intel",
