@@ -65,6 +65,13 @@
   {
     "vendor": "AMD",
     "type": "CPU",
+    "family": "Zen2+GCN5",
+    "name": "Renoir",
+    "url": "https://misdake.github.io/ChipAnnotationData3/Renoir"
+  },
+  {
+    "vendor": "AMD",
+    "type": "CPU",
     "family": "Zen",
     "name": "Zeppelin",
     "url": "https://misdake.github.io/ChipAnnotationData2/Zeppelin"
@@ -110,6 +117,13 @@
     "family": "Conroe",
     "name": "Conroe",
     "url": "https://misdake.github.io/ChipAnnotationData3/Conroe"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "IvyBridge",
+    "name": "IvyBridge_2+2",
+    "url": "https://misdake.github.io/ChipAnnotationData3/IvyBridge_2+2"
   },
   {
     "vendor": "Intel",
