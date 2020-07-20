@@ -182,6 +182,13 @@
     "url": "https://misdake.github.io/ChipAnnotationData2/Skylake_LCC"
   },
   {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "Skylake",
+    "name": "Skylake_XCC",
+    "url": "https://misdake.github.io/ChipAnnotationData4/Skylake_XCC"
+  },
+  {
     "vendor": "ATI/AMD",
     "type": "GPU",
     "family": "GCN1",
