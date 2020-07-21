@@ -128,6 +128,13 @@
   {
     "vendor": "Intel",
     "type": "CPU",
+    "family": "MIC",
+    "name": "Knights_Landing",
+    "url": "https://misdake.github.io/ChipAnnotationData4/Knights_Landing"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
     "family": "P5",
     "name": "P54C",
     "url": "https://misdake.github.io/ChipAnnotationData3/P54C"
