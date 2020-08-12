@@ -86,6 +86,13 @@
   {
     "vendor": "AMD",
     "type": "CPU",
+    "family": "Zen+GCN5",
+    "name": "Dali",
+    "url": "https://misdake.github.io/ChipAnnotationData4/Dali"
+  },
+  {
+    "vendor": "AMD",
+    "type": "CPU",
     "family": "Zen2",
     "name": "Matisse_IOD",
     "url": "https://misdake.github.io/ChipAnnotationData2/Matisse_IOD"
