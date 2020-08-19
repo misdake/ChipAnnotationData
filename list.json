@@ -3,15 +3,15 @@
     "vendor": "Microsoft",
     "type": "",
     "family": "",
-    "name": "Xbox_Series_X",
-    "url": "https://misdake.github.io/ChipAnnotationData/Xbox_Series_X"
+    "name": "Xbox_One",
+    "url": "https://misdake.github.io/ChipAnnotationData2/Xbox_One"
   },
   {
     "vendor": "Microsoft",
     "type": "",
     "family": "",
-    "name": "Xbox_One",
-    "url": "https://misdake.github.io/ChipAnnotationData2/Xbox_One"
+    "name": "Xbox_Series_X",
+    "url": "https://misdake.github.io/ChipAnnotationData/Xbox_Series_X"
   },
   {
     "vendor": "Sony",
@@ -65,13 +65,6 @@
   {
     "vendor": "AMD",
     "type": "CPU",
-    "family": "Zen2+GCN5",
-    "name": "Renoir",
-    "url": "https://misdake.github.io/ChipAnnotationData3/Renoir"
-  },
-  {
-    "vendor": "AMD",
-    "type": "CPU",
     "family": "Zen",
     "name": "Zeppelin",
     "url": "https://misdake.github.io/ChipAnnotationData2/Zeppelin"
@@ -80,15 +73,15 @@
     "vendor": "AMD",
     "type": "CPU",
     "family": "Zen+GCN5",
-    "name": "Raven_Ridge",
-    "url": "https://misdake.github.io/ChipAnnotationData2/Raven_Ridge"
+    "name": "Dali",
+    "url": "https://misdake.github.io/ChipAnnotationData4/Dali"
   },
   {
     "vendor": "AMD",
     "type": "CPU",
     "family": "Zen+GCN5",
-    "name": "Dali",
-    "url": "https://misdake.github.io/ChipAnnotationData4/Dali"
+    "name": "Raven_Ridge",
+    "url": "https://misdake.github.io/ChipAnnotationData2/Raven_Ridge"
   },
   {
     "vendor": "AMD",
@@ -117,6 +110,13 @@
     "family": "Zen2",
     "name": "Zen2_Core",
     "url": "https://misdake.github.io/ChipAnnotationData2/Zen2_Core"
+  },
+  {
+    "vendor": "AMD",
+    "type": "CPU",
+    "family": "Zen2+GCN5",
+    "name": "Renoir",
+    "url": "https://misdake.github.io/ChipAnnotationData3/Renoir"
   },
   {
     "vendor": "Intel",
@@ -178,15 +178,15 @@
     "vendor": "Intel",
     "type": "CPU",
     "family": "Skylake",
-    "name": "Skylake_Core",
-    "url": "https://misdake.github.io/ChipAnnotationData3/Skylake_Core"
+    "name": "Kabylake_2+2",
+    "url": "https://misdake.github.io/ChipAnnotationData2/Kabylake_2+2"
   },
   {
     "vendor": "Intel",
     "type": "CPU",
     "family": "Skylake",
-    "name": "Kabylake_2+2",
-    "url": "https://misdake.github.io/ChipAnnotationData2/Kabylake_2+2"
+    "name": "Skylake_Core",
+    "url": "https://misdake.github.io/ChipAnnotationData3/Skylake_Core"
   },
   {
     "vendor": "Intel",
