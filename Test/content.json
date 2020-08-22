@@ -1,0 +1,33 @@
+{
+  "vendor": "",
+  "type": "",
+  "family": "",
+  "name": "Test",
+  "githubRepo": "misdake/ChipAnnotationData",
+  "githubIssueId": 48,
+  "source": "",
+  "createTime": "Aug 22, 2020 2:41:50 AM",
+  "width": 2048,
+  "height": 2048,
+  "tileSize": 512,
+  "maxLevel": 2,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 4,
+      "yMax": 4
+    },
+    {
+      "level": 1,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 2,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 0.0,
+  "heightMillimeter": 0.0
+}

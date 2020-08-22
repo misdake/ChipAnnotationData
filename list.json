@@ -1,38 +1,10 @@
 [
   {
-    "vendor": "Microsoft",
+    "vendor": "",
     "type": "",
     "family": "",
-    "name": "Xbox_One",
-    "url": "https://misdake.github.io/ChipAnnotationData2/Xbox_One"
-  },
-  {
-    "vendor": "Microsoft",
-    "type": "",
-    "family": "",
-    "name": "Xbox_Series_X",
-    "url": "https://misdake.github.io/ChipAnnotationData/Xbox_Series_X"
-  },
-  {
-    "vendor": "Sony",
-    "type": "",
-    "family": "",
-    "name": "PS4",
-    "url": "https://misdake.github.io/ChipAnnotationData/PS4"
-  },
-  {
-    "vendor": "Sony",
-    "type": "",
-    "family": "",
-    "name": "PS4Pro",
-    "url": "https://misdake.github.io/ChipAnnotationData/PS4Pro"
-  },
-  {
-    "vendor": "Sony",
-    "type": "",
-    "family": "",
-    "name": "RSX",
-    "url": "https://misdake.github.io/ChipAnnotationData/RSX"
+    "name": "Test",
+    "url": "https://misdake.github.io/ChipAnnotationData/Test"
   },
   {
     "vendor": "AMD",
@@ -117,90 +89,6 @@
     "family": "Zen2+GCN5",
     "name": "Renoir",
     "url": "https://misdake.github.io/ChipAnnotationData3/Renoir"
-  },
-  {
-    "vendor": "Intel",
-    "type": "CPU",
-    "family": "Conroe",
-    "name": "Conroe",
-    "url": "https://misdake.github.io/ChipAnnotationData3/Conroe"
-  },
-  {
-    "vendor": "Intel",
-    "type": "CPU",
-    "family": "IvyBridge",
-    "name": "IvyBridge_2+2",
-    "url": "https://misdake.github.io/ChipAnnotationData3/IvyBridge_2+2"
-  },
-  {
-    "vendor": "Intel",
-    "type": "CPU",
-    "family": "MIC",
-    "name": "Knights_Landing",
-    "url": "https://misdake.github.io/ChipAnnotationData4/Knights_Landing"
-  },
-  {
-    "vendor": "Intel",
-    "type": "CPU",
-    "family": "P5",
-    "name": "P54C",
-    "url": "https://misdake.github.io/ChipAnnotationData3/P54C"
-  },
-  {
-    "vendor": "Intel",
-    "type": "CPU",
-    "family": "P6",
-    "name": "Coppermine",
-    "url": "https://misdake.github.io/ChipAnnotationData3/Coppermine"
-  },
-  {
-    "vendor": "Intel",
-    "type": "CPU",
-    "family": "SandyBridge",
-    "name": "SandyBridge_4+2",
-    "url": "https://misdake.github.io/ChipAnnotationData3/SandyBridge_4+2"
-  },
-  {
-    "vendor": "Intel",
-    "type": "CPU",
-    "family": "SandyBridge",
-    "name": "SandyBridge_Core",
-    "url": "https://misdake.github.io/ChipAnnotationData3/SandyBridge_Core"
-  },
-  {
-    "vendor": "Intel",
-    "type": "CPU",
-    "family": "SandyBridge",
-    "name": "SandyBridge_IGP",
-    "url": "https://misdake.github.io/ChipAnnotationData3/SandyBridge_IGP"
-  },
-  {
-    "vendor": "Intel",
-    "type": "CPU",
-    "family": "Skylake",
-    "name": "Kabylake_2+2",
-    "url": "https://misdake.github.io/ChipAnnotationData2/Kabylake_2+2"
-  },
-  {
-    "vendor": "Intel",
-    "type": "CPU",
-    "family": "Skylake",
-    "name": "Skylake_Core",
-    "url": "https://misdake.github.io/ChipAnnotationData3/Skylake_Core"
-  },
-  {
-    "vendor": "Intel",
-    "type": "CPU",
-    "family": "Skylake",
-    "name": "Skylake_LCC",
-    "url": "https://misdake.github.io/ChipAnnotationData2/Skylake_LCC"
-  },
-  {
-    "vendor": "Intel",
-    "type": "CPU",
-    "family": "Skylake",
-    "name": "Skylake_XCC",
-    "url": "https://misdake.github.io/ChipAnnotationData4/Skylake_XCC"
   },
   {
     "vendor": "ATI/AMD",
@@ -355,6 +243,125 @@
     "family": "TeraScale3",
     "name": "Cayman",
     "url": "https://misdake.github.io/ChipAnnotationData/Cayman"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "Conroe",
+    "name": "Conroe",
+    "url": "https://misdake.github.io/ChipAnnotationData3/Conroe"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "IvyBridge",
+    "name": "IvyBridge_2+2",
+    "url": "https://misdake.github.io/ChipAnnotationData3/IvyBridge_2+2"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "MIC",
+    "name": "Knights_Landing",
+    "url": "https://misdake.github.io/ChipAnnotationData4/Knights_Landing"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "P5",
+    "name": "P54C",
+    "url": "https://misdake.github.io/ChipAnnotationData3/P54C"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "P6",
+    "name": "Coppermine",
+    "url": "https://misdake.github.io/ChipAnnotationData3/Coppermine"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "SandyBridge",
+    "name": "SandyBridge_4+2",
+    "url": "https://misdake.github.io/ChipAnnotationData3/SandyBridge_4+2"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "SandyBridge",
+    "name": "SandyBridge_Core",
+    "url": "https://misdake.github.io/ChipAnnotationData3/SandyBridge_Core"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "SandyBridge",
+    "name": "SandyBridge_IGP",
+    "url": "https://misdake.github.io/ChipAnnotationData3/SandyBridge_IGP"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "Skylake",
+    "name": "Kabylake_2+2",
+    "url": "https://misdake.github.io/ChipAnnotationData2/Kabylake_2+2"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "Skylake",
+    "name": "Skylake_Core",
+    "url": "https://misdake.github.io/ChipAnnotationData3/Skylake_Core"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "Skylake",
+    "name": "Skylake_LCC",
+    "url": "https://misdake.github.io/ChipAnnotationData2/Skylake_LCC"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "Skylake",
+    "name": "Skylake_XCC",
+    "url": "https://misdake.github.io/ChipAnnotationData4/Skylake_XCC"
+  },
+  {
+    "vendor": "Microsoft",
+    "type": "",
+    "family": "",
+    "name": "Xbox_One",
+    "url": "https://misdake.github.io/ChipAnnotationData2/Xbox_One"
+  },
+  {
+    "vendor": "Microsoft",
+    "type": "",
+    "family": "",
+    "name": "Xbox_Series_X",
+    "url": "https://misdake.github.io/ChipAnnotationData/Xbox_Series_X"
+  },
+  {
+    "vendor": "Sony",
+    "type": "",
+    "family": "",
+    "name": "PS4",
+    "url": "https://misdake.github.io/ChipAnnotationData/PS4"
+  },
+  {
+    "vendor": "Sony",
+    "type": "",
+    "family": "",
+    "name": "PS4Pro",
+    "url": "https://misdake.github.io/ChipAnnotationData/PS4Pro"
+  },
+  {
+    "vendor": "Sony",
+    "type": "",
+    "family": "",
+    "name": "RSX",
+    "url": "https://misdake.github.io/ChipAnnotationData/RSX"
   },
   {
     "vendor": "nVIDIA",
