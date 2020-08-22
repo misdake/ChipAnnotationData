@@ -339,6 +339,13 @@
     "vendor": "Microsoft",
     "type": "",
     "family": "",
+    "name": "Xbox_One_X",
+    "url": "https://misdake.github.io/ChipAnnotationData4/Xbox_One_X"
+  },
+  {
+    "vendor": "Microsoft",
+    "type": "",
+    "family": "",
     "name": "Xbox_Series_X",
     "url": "https://misdake.github.io/ChipAnnotationData/Xbox_Series_X"
   },
