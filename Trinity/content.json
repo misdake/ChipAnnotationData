@@ -1,0 +1,38 @@
+{
+  "vendor": "AMD",
+  "type": "CPU",
+  "family": "PD+TeraScale3",
+  "name": "Trinity",
+  "githubRepo": "misdake/ChipAnnotationData",
+  "githubIssueId": 49,
+  "source": "",
+  "createTime": "Aug 28, 2020 6:10:20 AM",
+  "width": 1973,
+  "height": 2695,
+  "tileSize": 512,
+  "maxLevel": 3,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 4,
+      "yMax": 6
+    },
+    {
+      "level": 1,
+      "xMax": 2,
+      "yMax": 3
+    },
+    {
+      "level": 2,
+      "xMax": 1,
+      "yMax": 2
+    },
+    {
+      "level": 3,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 0.0,
+  "heightMillimeter": 0.0
+}

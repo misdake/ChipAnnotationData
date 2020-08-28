@@ -1,12 +1,5 @@
 [
   {
-    "vendor": "Test",
-    "type": "",
-    "family": "",
-    "name": "Test",
-    "url": "https://misdake.github.io/ChipAnnotationData/Test"
-  },
-  {
     "vendor": "AMD",
     "type": "CPU",
     "family": "Bobcat+TeraScale2",
@@ -26,6 +19,13 @@
     "family": "K6",
     "name": "K6",
     "url": "https://misdake.github.io/ChipAnnotationData3/K6"
+  },
+  {
+    "vendor": "AMD",
+    "type": "CPU",
+    "family": "PD+TeraScale3",
+    "name": "Trinity",
+    "url": "https://misdake.github.io/ChipAnnotationData/Trinity"
   },
   {
     "vendor": "AMD",
@@ -369,6 +369,13 @@
     "family": "",
     "name": "RSX",
     "url": "https://misdake.github.io/ChipAnnotationData/RSX"
+  },
+  {
+    "vendor": "Test",
+    "type": "",
+    "family": "",
+    "name": "Test",
+    "url": "https://misdake.github.io/ChipAnnotationData/Test"
   },
   {
     "vendor": "nVIDIA",
