@@ -91,6 +91,13 @@
     "url": "https://misdake.github.io/ChipAnnotationData3/Renoir"
   },
   {
+    "vendor": "AMD",
+    "type": "CPU",
+    "family": "Zen3",
+    "name": "Zen3_CCD",
+    "url": "https://misdake.github.io/ChipAnnotationData5/Zen3_CCD"
+  },
+  {
     "vendor": "ATI/AMD",
     "type": "GPU",
     "family": "GCN1",
