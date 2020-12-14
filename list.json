@@ -387,6 +387,13 @@
   {
     "vendor": "nVIDIA",
     "type": "GPU",
+    "family": "Ampere",
+    "name": "GA102",
+    "url": "https://misdake.github.io/ChipAnnotationData/GA102"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
     "family": "Curie",
     "name": "G70",
     "url": "https://misdake.github.io/ChipAnnotationData/G70"
