@@ -600,7 +600,7 @@
     "type": "GPU",
     "family": "Turing",
     "name": "TU104_2",
-    "url": "https://misdake.github.io/ChipAnnotationData5/TU104_2"
+    "url": "https://misdake.github.io/ChipAnnotationData5/TU104"
   },
   {
     "vendor": "nVIDIA",
