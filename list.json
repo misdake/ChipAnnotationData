@@ -616,8 +616,24 @@
     "vendor": "nVIDIA",
     "type": "GPU",
     "family": "Turing",
+    "name": "TU106_2",
+    "listname": "TU106",
+    "url": "https://misdake.github.io/ChipAnnotationData5/TU106_2"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Turing",
     "name": "TU116",
     "listname": "TU116(IR)",
     "url": "https://misdake.github.io/ChipAnnotationData/TU116"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Turing",
+    "name": "TU116_2",
+    "listname": "TU116",
+    "url": "https://misdake.github.io/ChipAnnotationData5/TU116_2"
   }
 ]
