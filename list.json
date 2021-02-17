@@ -374,6 +374,13 @@
     "vendor": "Sony",
     "type": "",
     "family": "",
+    "name": "PS5",
+    "url": "https://misdake.github.io/ChipAnnotationData5/PS5"
+  },
+  {
+    "vendor": "Sony",
+    "type": "",
+    "family": "",
     "name": "RSX",
     "url": "https://misdake.github.io/ChipAnnotationData/RSX"
   },
