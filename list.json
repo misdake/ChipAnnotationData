@@ -1,5 +1,21 @@
 [
   {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "RocketLake",
+    "name": "RocketLake_8C",
+    "listname": "RocketLake_8C",
+    "url": "https://misdake.github.io/ChipAnnotationData6/RocketLake_8C"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "RocketLake",
+    "name": "RocketLake_Core",
+    "listname": "RocketLake_Core",
+    "url": "https://misdake.github.io/ChipAnnotationData6/RocketLake_Core"
+  },
+  {
     "vendor": "AMD",
     "type": "CPU",
     "family": "Bobcat+TeraScale2",
