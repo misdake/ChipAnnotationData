@@ -246,10 +246,19 @@
     "type": "GPU",
     "family": "RDNA",
     "name": "Navi14",
+    "listname": "Navi14(IR)",
     "url": "https://misdake.github.io/ChipAnnotationData3/Navi14"
   },
   {
-    "vendor": "AMD",
+    "vendor": "ATI/AMD",
+    "type": "GPU",
+    "family": "RDNA",
+    "name": "Navi14_2",
+    "listname": "Navi14",
+    "url": "https://misdake.github.io/ChipAnnotationData6/Navi14"
+  },
+  {
+    "vendor": "ATI/AMD",
     "type": "GPU",
     "family": "RDNA2",
     "name": "Navi22_IR",
@@ -378,22 +387,41 @@
   {
     "vendor": "Microsoft",
     "type": "",
-    "family": "",
+    "family": "Xbox360",
+    "name": "Xenos_80nm",
+    "listname": "Xenos 80nm",
+    "url": "https://misdake.github.io/ChipAnnotationData6/Xenos_80nm"
+  },
+  {
+    "vendor": "Microsoft",
+    "type": "",
+    "family": "Xbox360",
+    "name": "Xenos_90nm",
+    "listname": "Xenos 90nm",
+    "url": "https://misdake.github.io/ChipAnnotationData6/Xenos_90nm"
+  },
+  {
+    "vendor": "Microsoft",
+    "type": "",
+    "family": "XboxOne",
     "name": "Xbox_One",
+    "listname": "Xbox One",
     "url": "https://misdake.github.io/ChipAnnotationData2/Xbox_One"
   },
   {
     "vendor": "Microsoft",
     "type": "",
-    "family": "",
+    "family": "XboxOne",
     "name": "Xbox_One_X",
+    "listname": "Xbox One X",
     "url": "https://misdake.github.io/ChipAnnotationData4/Xbox_One_X"
   },
   {
     "vendor": "Microsoft",
     "type": "",
-    "family": "",
+    "family": "XboxSeries",
     "name": "Xbox_Series_X",
+    "listname": "Xbox Series X",
     "url": "https://misdake.github.io/ChipAnnotationData/Xbox_Series_X"
   },
   {
