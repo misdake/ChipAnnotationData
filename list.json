@@ -114,6 +114,14 @@
     "url": "https://misdake.github.io/ChipAnnotationData5/Zen3_CCD"
   },
   {
+    "vendor": "AMD",
+    "type": "CPU",
+    "family": "Zen3",
+    "name": "Cezanne_IR",
+    "listname": "Cezanne(IR)",
+    "url": "https://misdake.github.io/ChipAnnotationData6/Cezanne_IR"
+  },
+  {
     "vendor": "ATI/AMD",
     "type": "GPU",
     "family": "GCN1",
@@ -238,7 +246,7 @@
     "family": "RDNA2",
     "name": "Navi22_IR",
     "listname": "Navi22(IR)",
-    "url": "https://misdake.github.io/ChipAnnotationData/Navi22_IR"
+    "url": "https://misdake.github.io/ChipAnnotationData6/Navi22_IR"
   },
   {
     "vendor": "ATI/AMD",
