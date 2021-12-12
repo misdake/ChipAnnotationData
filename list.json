@@ -1,5 +1,13 @@
 [
   {
+    "vendor": "3dfx",
+    "type": "GPU",
+    "family": "Voodoo3",
+    "name": "Voodoo3_2000",
+    "listname": "Voodoo3 2000",
+    "url": "https://misdake.github.io/ChipAnnotationData6/Voodoo3_2000"
+  },
+  {
     "vendor": "Intel",
     "type": "CPU",
     "family": "Rocketlake",
