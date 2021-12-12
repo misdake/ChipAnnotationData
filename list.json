@@ -233,6 +233,14 @@
     "url": "https://misdake.github.io/ChipAnnotationData3/Navi14"
   },
   {
+    "vendor": "AMD",
+    "type": "GPU",
+    "family": "RDNA2",
+    "name": "Navi22_IR",
+    "listname": "Navi22(IR)",
+    "url": "https://misdake.github.io/ChipAnnotationData/Navi22_IR"
+  },
+  {
     "vendor": "ATI/AMD",
     "type": "GPU",
     "family": "TeraScale",
