@@ -590,6 +590,14 @@
     "vendor": "nVIDIA",
     "type": "GPU",
     "family": "Pascal",
+    "name": "GP100",
+    "listname": "GP100",
+    "url": "https://misdake.github.io/ChipAnnotationData6/GP100"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Pascal",
     "name": "GP102",
     "url": "https://misdake.github.io/ChipAnnotationData/GP102"
   },
