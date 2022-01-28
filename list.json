@@ -316,9 +316,9 @@
   },
   {
     "vendor": "Intel",
-    "type": "CPU",
-    "family": "MIC",
+    "type": "MIC",
     "name": "Knights_Landing",
+    "listname": "Knights Landing",
     "url": "https://misdake.github.io/ChipAnnotationData4/Knights_Landing"
   },
   {
@@ -759,5 +759,37 @@
     "name": "TegraX1",
     "listname": "TegraX1",
     "url": "https://misdake.github.io/ChipAnnotationData6/TegraX1"
+  },
+  {
+    "vendor": "Apple",
+    "type": "SoC",
+    "family": "",
+    "name": "A8",
+    "listname": "A8",
+    "url": "https://misdake.github.io/ChipAnnotationData6/A8"
+  },
+  {
+    "vendor": "Apple",
+    "type": "SoC",
+    "family": "",
+    "name": "A8X",
+    "listname": "A8X",
+    "url": "https://misdake.github.io/ChipAnnotationData6/A8X"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "Haswell",
+    "name": "Haswell_4+2",
+    "listname": "Haswell 4+2",
+    "url": "https://misdake.github.io/ChipAnnotationData6/Haswell_4+2"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "Westmere",
+    "name": "Clarkdale",
+    "listname": "Clarkdale",
+    "url": "https://misdake.github.io/ChipAnnotationData6/Clarkdale"
   }
 ]
