@@ -317,6 +317,7 @@
   {
     "vendor": "Intel",
     "type": "MIC",
+    "family": "",
     "name": "Knights_Landing",
     "listname": "Knights Landing",
     "url": "https://misdake.github.io/ChipAnnotationData4/Knights_Landing"
