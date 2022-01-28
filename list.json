@@ -762,6 +762,14 @@
     "url": "https://misdake.github.io/ChipAnnotationData6/TegraX1"
   },
   {
+    "vendor": "AMD",
+    "type": "CPU",
+    "family": "K10",
+    "name": "Agena",
+    "listname": "Agena",
+    "url": "https://misdake.github.io/ChipAnnotationData6/Agena"
+  },
+  {
     "vendor": "Apple",
     "type": "SoC",
     "family": "",
