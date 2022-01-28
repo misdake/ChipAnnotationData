@@ -719,5 +719,45 @@
     "name": "TU116_2",
     "listname": "TU116",
     "url": "https://misdake.github.io/ChipAnnotationData5/TU116_2"
+  },
+  {
+    "vendor": "ATI/AMD",
+    "type": "GPU",
+    "family": "GFX2",
+    "name": "R300",
+    "listname": "R300",
+    "url": "https://misdake.github.io/ChipAnnotationData6/R300"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "AlderLake",
+    "name": "ADL-S_8+8",
+    "listname": "ADL-S 8+8",
+    "url": "https://misdake.github.io/ChipAnnotationData6/ADL-S_8+8"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "Atom",
+    "name": "Saltwell",
+    "listname": "Saltwell",
+    "url": "https://misdake.github.io/ChipAnnotationData6/Saltwell"
+  },
+  {
+    "vendor": "Intel",
+    "type": "MIC",
+    "family": "",
+    "name": "Knights_Ferry",
+    "listname": "Knights_Ferry",
+    "url": "https://misdake.github.io/ChipAnnotationData6/Knights_Ferry"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "SoC",
+    "family": "Tegra",
+    "name": "TegraX1",
+    "listname": "TegraX1",
+    "url": "https://misdake.github.io/ChipAnnotationData6/TegraX1"
   }
 ]
