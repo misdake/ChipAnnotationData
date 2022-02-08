@@ -1,7 +1,7 @@
 {
   "vendor": "Microsoft",
-  "type": "",
-  "family": "",
+  "type": "Console",
+  "family": "XboxSeries",
   "name": "Xbox_Series_X",
   "githubRepo": "misdake/ChipAnnotationData",
   "githubIssueId": 47,

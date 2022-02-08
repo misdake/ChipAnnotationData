@@ -197,15 +197,15 @@
   },
   {
     "vendor": "Sony",
-    "type": "",
-    "family": "",
+    "type": "Console",
+    "family": "PS4",
     "name": "PS4",
     "url": "https://misdake.github.io/ChipAnnotationData/PS4"
   },
   {
     "vendor": "Sony",
-    "type": "",
-    "family": "",
+    "type": "Console",
+    "family": "PS4",
     "name": "PS4Pro",
     "url": "https://misdake.github.io/ChipAnnotationData/PS4Pro"
   },
@@ -239,8 +239,8 @@
   },
   {
     "vendor": "Sony",
-    "type": "",
-    "family": "",
+    "type": "Console",
+    "family": "PS3",
     "name": "RSX",
     "url": "https://misdake.github.io/ChipAnnotationData/RSX"
   },
@@ -334,7 +334,7 @@
   },
   {
     "vendor": "Microsoft",
-    "type": "",
+    "type": "Console",
     "family": "XboxSeries",
     "name": "Xbox_Series_X",
     "listname": "Xbox Series X",
