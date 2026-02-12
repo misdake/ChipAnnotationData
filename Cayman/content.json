@@ -1,5 +1,6 @@
 {
   "name": "Cayman",
+  "imageRoot": "https://chip.rgbuv.xyz/chip/Cayman",
   "githubRepo": "misdake/ChipAnnotationData",
   "githubIssueId": 31,
   "source": "https://www.flickr.com/photos/98762402@N06/40578781533",
