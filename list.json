@@ -2,13 +2,6 @@
   {
     "vendor": "ATI/AMD",
     "type": "GPU",
-    "family": "TeraScale3",
-    "name": "Cayman",
-    "url": "https://misdake.github.io/ChipAnnotationData/Cayman"
-  },
-  {
-    "vendor": "ATI/AMD",
-    "type": "GPU",
     "family": "GCN3",
     "name": "Fiji",
     "url": "https://misdake.github.io/ChipAnnotationData/Fiji"
