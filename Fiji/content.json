@@ -41,5 +41,11 @@
     }
   ],
   "widthMillimeter": 26.51,
-  "heightMillimeter": 22.5
+  "heightMillimeter": 22.5,
+  "vendor": "ATI/AMD",
+  "type": "GPU",
+  "family": "GCN3",
+  "imageAuthorName": "Fritzchens Fritz",
+  "imageAuthorUrl": "https://www.flickr.com/photos/130561288@N04/",
+  "specUrl": "https://www.techpowerup.com/gpu-specs/amd-fiji.g774"
 }

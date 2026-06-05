@@ -35,6 +35,12 @@
       "yMax": 1
     }
   ],
-  "widthMillimeter": 0.0,
-  "heightMillimeter": 0.0
+  "widthMillimeter": 18.0415,
+  "heightMillimeter": 15.9077,
+  "imageAuthorName": "Oleg Kashirin",
+  "imageAuthorUrl": "https://www.flickr.com/photos/98762402@N06/",
+  "specUrl": "https://www.techpowerup.com/gpu-specs/nvidia-nv40.g6",
+  "vendor": "nVIDIA",
+  "type": "GPU",
+  "family": "Curie"
 }

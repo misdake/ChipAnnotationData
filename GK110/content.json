@@ -31,5 +31,11 @@
     }
   ],
   "widthMillimeter": 24.2,
-  "heightMillimeter": 23.5
+  "heightMillimeter": 23.5,
+  "imageAuthorName": "Fritzchens Fritz",
+  "imageAuthorUrl": "https://www.flickr.com/photos/130561288@N04/",
+  "specUrl": "https://www.techpowerup.com/gpu-specs/nvidia-gk110.g136",
+  "vendor": "nVIDIA",
+  "type": "GPU",
+  "family": "Kepler"
 }

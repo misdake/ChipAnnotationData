@@ -41,5 +41,11 @@
     }
   ],
   "widthMillimeter": 24.3,
-  "heightMillimeter": 24.5
+  "heightMillimeter": 24.5,
+  "imageAuthorName": "Fritzchens Fritz",
+  "imageAuthorUrl": "https://www.flickr.com/photos/130561288@N04/",
+  "specUrl": "https://www.techpowerup.com/gpu-specs/nvidia-gt200.g61",
+  "vendor": "nVIDIA",
+  "type": "GPU",
+  "family": "Tesla"
 }

@@ -35,6 +35,12 @@
       "yMax": 1
     }
   ],
-  "widthMillimeter": 0.0,
-  "heightMillimeter": 0.0
+  "widthMillimeter": 17.8192,
+  "heightMillimeter": 16.1623,
+  "vendor": "ATI/AMD",
+  "type": "GPU",
+  "family": "GFX2",
+  "imageAuthorName": "Oleg Kashirin",
+  "imageAuthorUrl": "https://www.flickr.com/photos/98762402@N06/",
+  "specUrl": "https://www.techpowerup.com/gpu-specs/ati-r520.g43"
 }

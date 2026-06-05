@@ -36,5 +36,11 @@
     }
   ],
   "widthMillimeter": 22.87,
-  "heightMillimeter": 14.47
+  "heightMillimeter": 14.47,
+  "imageAuthorName": "Fritzchens Fritz",
+  "imageAuthorUrl": "https://www.flickr.com/photos/130561288@N04/",
+  "specUrl": "https://www.techpowerup.com/gpu-specs/amd-vega-20.g848",
+  "vendor": "ATI/AMD",
+  "type": "GPU",
+  "family": "GCN5"
 }

@@ -36,5 +36,11 @@
     }
   ],
   "widthMillimeter": 24.8,
-  "heightMillimeter": 31.1
+  "heightMillimeter": 31.1,
+  "imageAuthorName": "Fritzchens Fritz",
+  "imageAuthorUrl": "https://www.flickr.com/photos/130561288@N04/",
+  "specUrl": "https://www.techpowerup.com/gpu-specs/nvidia-tu102.g813",
+  "vendor": "nVIDIA",
+  "type": "GPU",
+  "family": "Turing"
 }

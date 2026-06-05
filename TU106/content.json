@@ -36,5 +36,11 @@
     }
   ],
   "widthMillimeter": 24.45,
-  "heightMillimeter": 18.7
+  "heightMillimeter": 18.7,
+  "imageAuthorName": "Fritzchens Fritz",
+  "imageAuthorUrl": "https://www.flickr.com/photos/130561288@N04/",
+  "specUrl": "https://www.techpowerup.com/gpu-specs/nvidia-tu106.g875",
+  "vendor": "nVIDIA",
+  "type": "GPU",
+  "family": "Turing"
 }

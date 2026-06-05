@@ -1,1 +1,41 @@
-{"name":"G86","githubRepo":"misdake/ChipAnnotationData","githubIssueId":44,"source":"https://www.flickr.com/photos/sic66/25604299278","createTime":"Jul 7, 2019 10:16:20 AM","width":2603,"height":2738,"tileSize":512,"maxLevel":3,"levels":[{"level":0,"xMax":6,"yMax":6},{"level":1,"xMax":3,"yMax":3},{"level":2,"xMax":2,"yMax":2},{"level":3,"xMax":1,"yMax":1}],"widthMillimeter":0.0,"heightMillimeter":0.0}
+{
+  "name": "G86",
+  "githubRepo": "misdake/ChipAnnotationData",
+  "githubIssueId": 44,
+  "source": "https://www.flickr.com/photos/sic66/25604299278",
+  "createTime": "Jul 7, 2019 10:16:20 AM",
+  "width": 2603,
+  "height": 2738,
+  "tileSize": 512,
+  "maxLevel": 3,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 6,
+      "yMax": 6
+    },
+    {
+      "level": 1,
+      "xMax": 3,
+      "yMax": 3
+    },
+    {
+      "level": 2,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 3,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 10.9881,
+  "heightMillimeter": 11.558,
+  "imageAuthorName": "Martijn Boer",
+  "imageAuthorUrl": "https://www.flickr.com/photos/sic66/",
+  "specUrl": "https://www.techpowerup.com/gpu-specs/nvidia-g86.g1029",
+  "vendor": "nVIDIA",
+  "type": "GPU",
+  "family": "Tesla"
+}

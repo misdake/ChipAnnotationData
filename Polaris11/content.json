@@ -36,5 +36,11 @@
     }
   ],
   "widthMillimeter": 10.65,
-  "heightMillimeter": 12.15
+  "heightMillimeter": 12.15,
+  "vendor": "ATI/AMD",
+  "type": "GPU",
+  "family": "GCN4",
+  "imageAuthorName": "Fritzchens Fritz",
+  "imageAuthorUrl": "https://www.flickr.com/photos/130561288@N04/",
+  "specUrl": "https://www.techpowerup.com/gpu-specs/amd-baffin.g796"
 }

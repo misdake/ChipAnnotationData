@@ -28,6 +28,9 @@
       "yMax": 1
     }
   ],
-  "widthMillimeter": 0.0,
-  "heightMillimeter": 0.0
+  "widthMillimeter": 0,
+  "heightMillimeter": 0,
+  "imageAuthorName": "Microsoft",
+  "imageAuthorUrl": "https://www.xbox.com/",
+  "specUrl": "https://www.techpowerup.com/gpu-specs/xbox-series-x-gpu.c3482"
 }

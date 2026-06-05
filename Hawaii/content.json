@@ -41,5 +41,11 @@
     }
   ],
   "widthMillimeter": 24.13,
-  "heightMillimeter": 18.41
+  "heightMillimeter": 18.41,
+  "vendor": "ATI/AMD",
+  "type": "GPU",
+  "family": "GCN2",
+  "imageAuthorName": "Fritzchens Fritz",
+  "imageAuthorUrl": "https://www.flickr.com/photos/130561288@N04/",
+  "specUrl": "https://www.techpowerup.com/gpu-specs/amd-hawaii.g738"
 }

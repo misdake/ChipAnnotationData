@@ -30,6 +30,12 @@
       "yMax": 1
     }
   ],
-  "widthMillimeter": 0.0,
-  "heightMillimeter": 0.0
+  "widthMillimeter": 19.8527,
+  "heightMillimeter": 17.7306,
+  "imageAuthorName": "Fritzchens Fritz",
+  "imageAuthorUrl": "https://www.flickr.com/photos/130561288@N04/",
+  "specUrl": "https://www.techpowerup.com/gpu-specs/amd-tahiti.g120",
+  "vendor": "ATI/AMD",
+  "type": "GPU",
+  "family": "GCN1"
 }

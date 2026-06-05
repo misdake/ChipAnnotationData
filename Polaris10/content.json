@@ -36,5 +36,11 @@
     }
   ],
   "widthMillimeter": 17.64,
-  "heightMillimeter": 13.82
+  "heightMillimeter": 13.82,
+  "vendor": "ATI/AMD",
+  "type": "GPU",
+  "family": "GCN4",
+  "imageAuthorName": "Fritzchens Fritz",
+  "imageAuthorUrl": "https://www.flickr.com/photos/130561288@N04/",
+  "specUrl": "https://www.techpowerup.com/gpu-specs/amd-ellesmere.g795"
 }

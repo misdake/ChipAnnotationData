@@ -30,6 +30,12 @@
       "yMax": 1
     }
   ],
-  "widthMillimeter": 0.0,
-  "heightMillimeter": 0.0
+  "widthMillimeter": 15.1378,
+  "heightMillimeter": 15.7222,
+  "imageAuthorName": "Oleg Kashirin",
+  "imageAuthorUrl": "https://www.flickr.com/photos/98762402@N06/",
+  "specUrl": "https://www.techpowerup.com/gpu-specs/nvidia-gf106.g83",
+  "vendor": "nVIDIA",
+  "type": "GPU",
+  "family": "Fermi"
 }

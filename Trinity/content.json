@@ -5,7 +5,7 @@
   "name": "Trinity",
   "githubRepo": "misdake/ChipAnnotationData",
   "githubIssueId": 49,
-  "source": "",
+  "source": "https://www.overclock.net/threads/amd-trinity-and-kaveri-die-comparisons-56k-warning.1493507/",
   "createTime": "Aug 28, 2020 6:10:20 AM",
   "width": 1973,
   "height": 2695,
@@ -33,6 +33,9 @@
       "yMax": 1
     }
   ],
-  "widthMillimeter": 0.0,
-  "heightMillimeter": 0.0
+  "widthMillimeter": 13.2,
+  "heightMillimeter": 18,
+  "specUrl": "https://www.techpowerup.com/cpu-specs/a10-5800k.c1100",
+  "imageAuthorName": "AMD",
+  "imageAuthorUrl": "https://www.amd.com"
 }

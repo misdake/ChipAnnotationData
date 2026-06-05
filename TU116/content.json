@@ -36,5 +36,11 @@
     }
   ],
   "widthMillimeter": 22.5,
-  "heightMillimeter": 12.9
+  "heightMillimeter": 12.9,
+  "imageAuthorName": "Fritzchens Fritz",
+  "imageAuthorUrl": "https://www.flickr.com/photos/130561288@N04/",
+  "specUrl": "https://www.techpowerup.com/gpu-specs/nvidia-tu116.g902",
+  "vendor": "nVIDIA",
+  "type": "GPU",
+  "family": "Turing"
 }

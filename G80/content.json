@@ -30,6 +30,12 @@
       "yMax": 1
     }
   ],
-  "widthMillimeter": 0.0,
-  "heightMillimeter": 0.0
+  "widthMillimeter": 22.5192,
+  "heightMillimeter": 21.4928,
+  "imageAuthorName": "Martijn Boer",
+  "imageAuthorUrl": "https://www.flickr.com/photos/sic66/",
+  "specUrl": "https://www.techpowerup.com/gpu-specs/nvidia-g80.g52",
+  "vendor": "nVIDIA",
+  "type": "GPU",
+  "family": "Tesla"
 }

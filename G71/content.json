@@ -30,6 +30,12 @@
       "yMax": 1
     }
   ],
-  "widthMillimeter": 0.0,
-  "heightMillimeter": 0.0
+  "widthMillimeter": 16.1635,
+  "heightMillimeter": 17.1993,
+  "imageAuthorName": "Oleg Kashirin",
+  "imageAuthorUrl": "https://www.flickr.com/photos/98762402@N06/",
+  "specUrl": "https://www.techpowerup.com/gpu-specs/nvidia-g71.g47",
+  "vendor": "nVIDIA",
+  "type": "GPU",
+  "family": "Curie"
 }

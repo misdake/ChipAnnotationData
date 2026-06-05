@@ -41,5 +41,11 @@
     }
   ],
   "widthMillimeter": 22.6,
-  "heightMillimeter": 14.4
+  "heightMillimeter": 14.4,
+  "imageAuthorName": "Fritzchens Fritz",
+  "imageAuthorUrl": "https://www.flickr.com/photos/130561288@N04/",
+  "specUrl": "https://www.techpowerup.com/gpu-specs/playstation-4-pro-gpu.c2876",
+  "vendor": "Sony",
+  "type": "Console",
+  "family": "PS4"
 }
