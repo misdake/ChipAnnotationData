@@ -284,7 +284,7 @@
     "type": "GPU",
     "family": "Turing",
     "name": "TU102",
-    "listname": "TU102(IR)",
+    "listname": "TU102 (IR)",
     "url": "https://misdake.github.io/ChipAnnotationData/TU102"
   },
   {
@@ -292,7 +292,7 @@
     "type": "GPU",
     "family": "Turing",
     "name": "TU104",
-    "listname": "TU104(IR)",
+    "listname": "TU104 (IR)",
     "url": "https://misdake.github.io/ChipAnnotationData/TU104"
   },
   {
@@ -300,7 +300,7 @@
     "type": "GPU",
     "family": "Turing",
     "name": "TU106",
-    "listname": "TU106(IR)",
+    "listname": "TU106 (IR)",
     "url": "https://misdake.github.io/ChipAnnotationData/TU106"
   },
   {
@@ -308,7 +308,7 @@
     "type": "GPU",
     "family": "Turing",
     "name": "TU116",
-    "listname": "TU116(IR)",
+    "listname": "TU116 (IR)",
     "url": "https://misdake.github.io/ChipAnnotationData/TU116"
   },
   {
