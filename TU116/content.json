@@ -42,5 +42,6 @@
   "specUrl": "https://www.techpowerup.com/gpu-specs/nvidia-tu116.g902",
   "vendor": "nVIDIA",
   "type": "GPU",
-  "family": "Turing"
+  "family": "Turing",
+  "listname": "TU116 (IR)"
 }
